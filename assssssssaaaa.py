@@ -251,3 +251,5 @@ while running:
 
 
 pygame.quit()
+
+# Fake active script
